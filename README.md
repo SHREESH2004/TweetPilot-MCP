@@ -4,6 +4,14 @@
 **MCP Server** is a powerful, lightweight server designed to automate tweeting on your behalf. Whether you want to schedule tweets, post updates programmatically, or integrate tweeting into your apps, MCP Server has you covered.
 
 ---
+🚀 See It in Action!
+🎥 Live Demo: Want to see TweetPilot MCP in action?
+👉 Watch the Demo Video on X 🔥
+
+<div align="center"> <a href="https://x.com/CyberSleuth24/status/1913174428017455132" target="_blank"> <img src="https://img.shields.io/badge/▶%20Watch-Demo%20Video-informational?style=for-the-badge&logo=twitter&color=1DA1F2" alt="Watch Demo Video"> </a> </div>
+
+🔧 See how easy it is to automate your tweets using just a few lines of code.
+---
 
 ## 🚀 Features
 
